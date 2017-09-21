@@ -1,0 +1,46 @@
+body {
+	background-image: url("http://www.supremepizza.us/wp-content/uploads/2016/04/logo-suprem-pizza.png");
+}
+
+.jumbotron {
+	background-color: black;
+	border-style: solid;
+	margin-top: 50px;
+}
+
+h1 {
+	font-family: helvetica;
+	color: white;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+}
+
+#timer {
+	font-family: helvetica;
+	color: grey;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.triviaQuestions {
+	font-family: helvetica;
+	font-size: 20px;
+	text-align: center;
+	padding: 30px;
+	background-color: rgba(255,255,255, 0.85);
+}
+
+.question {
+	font-weight: bold;
+	color: #990000;
+}
+
+
+.answers {
+	margin: 10px;
+}
+
+
+
